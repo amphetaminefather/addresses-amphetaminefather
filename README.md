@@ -1,10 +1,16 @@
-# addresses-amphetaminefather (silene)
+# Cryptocurrency-Addresses (amphetaminefather | silene | atropined)
+
 A list of cryptocurrency addresses you can donate to or transact with. I prefer BTC, ETH, and BCH (for cheaper txs). This is for historical purposes and other purposes. If you want to send a donation, i prefer you send it to:
 
-ETH (prefered): `0x5821ce4dCF1324a88A06b17e5d805201274e44f8`
+BTC: `bc1qp7z8g8rjhczpn28cpc0m5zyhycqh3af9sgcejn`
+
+ETH (preferred): `0x5821ce4dCF1324a88A06b17e5d805201274e44f8`
+
+BCH (preferred): `qzl330j5lhvvywv6u90m9cdfftfrz09acyk2yxckkq`
+
 SOL (do not prefer): `4LwpxHu58d2onUdFr8eeQS229qNsfCgNFTRdDsYg9Pje`
 
-If you want a message related to my work, use `amphetaminefather.eth`. Also accept donations there.
+You can also transact with `amphetaminefather.eth`
 
 ## [ETH] amphetaminefather.eth
 
